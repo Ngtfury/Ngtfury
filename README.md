@@ -11,7 +11,7 @@
 ## Me on discord
 ![Discord](https://discord.c99.nl/widget/theme-4/770646750804312105.png)
   
-## Some github stats
+## Some github stats :trollface:
 <br>
 
 <p align=center>
