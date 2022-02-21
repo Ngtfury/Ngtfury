@@ -1,4 +1,4 @@
-# Welcome!
+# Hello World! I'm Ngtfury 👋🏻
 
 ## About me
   - A high schooler & developer studying in [Amrita Vidyalayam](http://amritavidyalayam.org/)
