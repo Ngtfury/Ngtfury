@@ -19,3 +19,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngtfury&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"  />
 
 </br>
+
+### dir/s
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5&lines=%5C.vscode%5Cextensions%5C.164c7cde-60e9-4307-bf71-de0189daf599%5CpythonFiles%5Clib%5Cjedilsp%5Cjedi%5Cthird_party%5Ctypeshed%5Cstdlib%5C3.7;15-09-2021++05%3A09+PM+++++++++++++++791+suite.pyi;15-09-2021++05%3A09+PM+++++++++++++++791+suite.pyi;15-09-2021++05%3A09+PM++++%3CDIR%3E++++++++++..;+++++++++++++++6+File(s)+++++++++14%2C702+bytes)](https://git.io/typing-svg)
