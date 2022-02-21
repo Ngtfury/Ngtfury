@@ -14,7 +14,7 @@
 <br>
 
 <p align=center>
-<a href="https://github.com/ACGaming1508">
+<a href="https://github.com/Ngtfury">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ngtfury&count_private=true&hide=prs&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngtfury&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true"  />
 
