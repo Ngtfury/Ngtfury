@@ -11,5 +11,5 @@
 <br>
 <p align=center>
   <a herf='https://github.com/Ngtfury'>
-    <img align="left" src="https://discord.c99.nl/widget/theme-4/770646750804312105.png" />
+    <img align="right" src="https://discord.c99.nl/widget/theme-4/770646750804312105.png" />
 </br>
