@@ -5,7 +5,7 @@
   - 🤓 Proficient at Python & Markup languages
   - 🤸‍♂️ Mainly codes Discord bots, Intrested in backend technologies
   - 🏹 Contact me on [Discord](https://discord.com/users/770646750804312105) or [Instagram](https://www.instagram.com/_ngt_fury/)
-  - ❤️ From 🇮🇳, Kerala
+  - ❤️ From :india:, Kerala
 
 
 ## Me on discord
