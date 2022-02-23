@@ -12,6 +12,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/770646750804312105.png)
   
 ## Some github stats :trollface:
+I have a total of 14 repositories of which 9 are private and 5 public (I don't like to share code 🤫)
 <br>
 
 <p align=center>
