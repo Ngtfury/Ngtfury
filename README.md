@@ -4,6 +4,7 @@
   - 😇 A high schooler & developer studying in 10th Std.
   - 🤓 Proficient at Python & Markup languages.
   - 🤸‍♂️ Mainly codes Discord bots, Intrested in backend technologies.
+  - 💜 My website, http://ngtfury.me/
   - 🏹 Contact me on [Discord](https://discord.com/users/770646750804312105) or [Instagram](https://www.instagram.com/_ngt_fury/)!
   - ❤️ From :india:, Kerala!
 
