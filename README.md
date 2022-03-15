@@ -11,7 +11,7 @@
   - ❤️ From :india:, Kerala!
 
 
-## <img src='https://cdn.discordapp.com/emojis/784649323837259806.gif?size=240' width='28'> Me on discord <img src='https://cdn.discordapp.com/emojis/784649323837259806.gif?size=240' width='28'>
+## <img src='https://cdn.discordapp.com/emojis/784649323837259806.gif?size=240' width='28'> Me on discord<img src='https://cdn.discordapp.com/emojis/784649323837259806.gif?size=240' width='28'>
 [![Discord Presence](https://lanyard.cnrad.dev/api/770646750804312105)](https://discord.com/users/770646750804312105)
   
 ## :trollface: Some github stats :trollface:
