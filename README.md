@@ -10,7 +10,7 @@
 
 
 ## Me on discord
-![Discord](https://discord.c99.nl/widget/theme-4/770646750804312105.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/770646750804312105)](https://discord.com/users/770646750804312105)
   
 ## Some github stats :trollface:
 I have a total of 15 repositories of which 10 are private and 5 public (I don't like to share code 🤫)
